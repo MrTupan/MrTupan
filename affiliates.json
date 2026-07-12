@@ -10,6 +10,11 @@
     "save_logs": true
   },
   {
+    "username": "AbobakerH",
+    "console_logs": false,
+    "save_logs": false
+  },
+  {
     "username": "zahidullahshahig",
     "console_logs": false,
     "save_logs": false
